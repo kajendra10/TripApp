@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Trip App</string>
+
+    <!-- SPLASH SCREEN TEXTS -->
+    <string name="explore_nthe_world">Explore\nThe World</string>
+    <string name="manage_your_trips_with_trip_app">Manage your trips with Trip App</string>
+    <string name="start">START</string>
+
+    <!-- DASHBOARD SCREEN TEXTS -->
+    <string name="kj_inc">KJ Inc.</string>
+    <string name="travel_effortlessly">Travel Effortlessly</string>
+    <string name="travel">Travel</string>
+    <string name="flights">Flights</string>
+    <string name="boats">Boats</string>
+    <string name="upcoming_schedules">Upcoming Schedules</string>
+    <string name="recommended_places">Recommended Places</string>
+
+    <!-- BOTTOM MENU TEXTS -->
+    <string name="home">Home</string>
+    <string name="explorer">Explorer</string>
+    <string name="bookmark">Bookmark</string>
+    <string name="profile">Profile</string>
+
+    <!-- VIEWHOLDER TRIP -->
+    <string name="title">title</string>
+    <string name="from">from</string>
+    <string name="time">time</string>
+    <string name="to">to</string>
+    <string name="rm0_0">RM0.0</string>
+    <string name="_0">0</string>
+
+    <!-- SEARCH SCREEN TEXTS -->
+    <string name="find_your_nbest_trip">Find Your\nBest Trip</string>
+    <string name="passengers">Passengers</string>
+    <string name="to1">To</string>
+    <string name="dash1">-</string>
+    <string name="dash2">-</string>
+    <string name="dash3">-</string>
+</resources>
